@@ -53,3 +53,7 @@ dkms.conf
 /Objects
 project.uvguix.RN
 JLinkLog.txt
+/board/CubeMX_Config/Drivers
+/board/CubeMX_Config/Inc
+/board/CubeMX_Config/MDK-ARM
+/board/CubeMX_Config/Src
